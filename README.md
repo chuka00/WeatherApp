@@ -24,6 +24,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Further help
 
-## It's still a bit buggy but it's live on [netlify](https://glastormz.netlify.app/).
+It's still a bit buggy but it's live on [netlify](https://glastormz.netlify.app/).
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
